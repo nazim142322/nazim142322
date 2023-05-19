@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 🔭 I’m currently working on HTML, CSS , Java Script [HTML & CSS](https://nazim142322.github.io/portfolio/)
+- 🔭 I’m currently working on HTML, CSS , Java Script [Projects](https://nazim142322.github.io/portfolio/)
 
-- 👨‍💻 All of my projects are available at [nazim142322.github.io/portfolio/](nazim142322.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [nazim142322.github.io/portfolio/](https://nazim142322.github.io/portfolio/)
 
 - 📫 How to reach me **nazim142322@gmail.com**
 
