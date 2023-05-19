@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nazim Kahn</h1>
+<h1 align="center">Hi 👋, I'm Nazim Khan</h1>
 <h3 align="center">A passionate Full Stack learner from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nazim142322&label=Profile%20views&color=0e75b6&style=flat" alt="nazim142322" /> </p>
