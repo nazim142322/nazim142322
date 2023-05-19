@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 🔭 I’m currently working on HTML, CSS and Java Script Project [HTML & CSS](https://nazim142322.github.io/portfolio/)
+- 🔭 I’m currently working on HTML5, CSS3 and Java Script [Projects](https://nazim142322.github.io/portfolio/)
 
-- 👨‍💻 All of my projects are available at [nazim142322.github.io/portfolio/](nazim142322.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [nazim142322.github.io/portfolio/](https://nazim142322.github.io/portfolio/)
 
-- 📫 How to reach me **nazim142322@gmail.com**
+- 📫 How to reach me **nazim142322@gmail.com** and call me **+91-8057184618**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
