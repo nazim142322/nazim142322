@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
-- 🔭 I’m currently working on HTML, CSS , JavaScript, and React [Projects](https://nazim142322.github.io/portfolio/)
+- 🔭 I’m currently working on HTML, CSS, JavaScript, and React [Projects](https://nazim142322.github.io/myportfolio/)
 
 - 👨‍💻 All of my projects are available at [nazim142322.github.io/portfolio/](https://nazim142322.github.io/myportfolio/)
 
